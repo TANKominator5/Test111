@@ -1,0 +1,7 @@
+This is a sample text file.
+
+Created as a placeholder for testing and demonstration purposes.
+
+- Line one
+- Line two
+- Line three
